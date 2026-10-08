@@ -1,0 +1,5 @@
+{
+  "name": "C-Headers",
+  "metarepo": "https://raw.githubusercontent.com/LyndsCorp/C-Headers/main/METAREPO",
+  "ffi-headers": "https://raw.githubusercontent.com/LyndsCorp/C-Headers/main/SINGREPOS/ffi-headers.json"
+}
