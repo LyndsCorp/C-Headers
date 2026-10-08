@@ -1,0 +1,5 @@
+{
+  "name": "ffi-headers",
+  "download_url": "https://github.com/LyndsCorp/C-Headers/releases/download/ffi-3.4.8/ffi-headers_3.4.8.tar.xz.casata",
+  "data_url": "https://raw.githubusercontent.com/LyndsCorp/C-Headers/main/DATABASE/ffi-headers.json"
+}
