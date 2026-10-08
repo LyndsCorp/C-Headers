@@ -1,0 +1,21 @@
+{
+  "name": "ffi-headers",
+  "version": "3.4.8",
+  "apt": [],
+  "pacman": [],
+  "dnf": [],
+  "casata": [],
+  "pip": [],
+  "size": "20,9 KiB",
+  "description": "Cabeceras de desarrollo (headers) de libffi. Trae ffi.h y ffitarget.h.",
+  "usage": "Incluye <ffi.h> y <ffitarget.h> en tu código C/C++ y enlaza con -lffi.",
+
+  "project": "libffi",
+  "is_open_source": true,
+  "source_code": "https://github.com/libffi/libffi",
+  "license": "Expat",
+  "origin": "Red Hat, Inc. / comunidad libffi",
+  "developer": "Anthony Green y colaboradores",
+  "copyright_title": "Anthony Green, Red Hat, Inc. y Free Software Foundation, Inc.",
+  "copyright_year": "1996-2024 (mejor mirar el año del copyright en LICENSE)"
+}
